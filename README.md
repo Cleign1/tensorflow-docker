@@ -11,7 +11,8 @@ docker run -it --gpus all tensorflow-gpu
 `
 
 
-**Bonus**
+**Bonus Command**
+
 `bash
 docker start {docker container name}`
 
